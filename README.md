@@ -1,2 +1,2 @@
-#https://johnpaing.github.io/practise/
+#https://johnpaing.github.io/practise/cv.html
 
