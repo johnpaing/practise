@@ -1,0 +1,137 @@
+*{
+    font-family: sans-serif;
+   
+}
+
+
+
+hr{
+   width:50%;
+   height: 2px;
+   text-align: center;
+   background-color: black;
+   margin-right: 185px;
+  
+}
+
+.name{
+    font-size: 35px;
+    font-weight: 200;
+    margin-left: 175px;
+    margin-bottom: 0px;
+}
+
+.deve{
+    color: rgb(23, 150, 90);
+    margin-left:180px;
+    margin-top:20px;
+    margin-bottom: 0px;
+}
+
+.st{
+    margin-top: 20px;
+    margin-left:178px;
+    margin-bottom: 0px;
+}
+
+.ci{
+    margin-top: 5px;
+    margin-left:178px;
+    margin-bottom: 0px;
+}
+
+.nu{
+    margin-top:5px;
+    margin-left:178px;
+    margin-bottom:0px;
+}
+
+.co{
+    margin-top:5px;
+    margin-left:178px;
+    margin-bottom: 0px;
+}
+
+.ski{
+    margin-top:20px;
+    margin-left:180px;
+    color:rgb(23, 150, 90);
+}
+
+.rs{
+    margin-left:180px;
+
+}
+
+.edu{
+    margin-left: 180px;
+    color:rgb(23, 150, 90);
+}
+
+.sch{
+    margin-left:179px;
+    color:rgba(54, 164, 238, 0.842);
+    margin-bottom:0px;
+}
+
+.Mo{
+    margin-top: 10px;
+    margin-left: 180px;
+    margin-bottom: 0px;
+}
+
+.ste{
+    margin-top: 10px;
+    margin-left: 180px;
+    margin-bottom:0px;
+}
+
+.exp{
+    margin-top:30px;
+    margin-left: 180px;
+    color:rgb(23, 150, 90);
+    margin-bottom: 0px;
+}
+
+.Com{
+    
+    margin-left:179px;
+    color:rgba(54, 164, 238, 0.842);
+    margin-bottom:0px;
+}
+
+.uo{
+    margin-left:160px;
+    margin-top:9px;
+    margin-bottom: 0px;
+
+}
+
+.uo li{
+    padding:3px;
+    margin-bottom: 0px;
+}
+
+.te{
+     margin-left: 180px;
+     margin-top: 7px;
+     margin-bottom:0px;
+}
+
+.jo{
+    margin-top:25px;
+    margin-left: 180px;
+    color:rgb(23, 150, 90);
+}
+
+.xt{
+    margin-left: 179px;
+
+}
+
+.fo{
+    border:2px solid black;
+    width: 50%;
+    align-items: center;
+    margin-left: 335px;
+}
