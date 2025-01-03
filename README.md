@@ -1,2 +1,2 @@
 # practise
-HTML CV
+https://johnpaing.github.io/practise/
